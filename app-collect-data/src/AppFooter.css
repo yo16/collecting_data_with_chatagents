@@ -1,0 +1,9 @@
+.appFooter {
+    height: auto;
+    background: linear-gradient(to bottom, rgb(19, 40, 61), rgb(40, 73, 104));
+    padding: 8px;
+}
+
+.poweredBy {
+    font-size: 0.8rem;
+}
