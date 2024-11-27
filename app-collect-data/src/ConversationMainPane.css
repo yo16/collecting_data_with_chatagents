@@ -2,3 +2,9 @@
     margin: 10px;
     flex: 1;
 }
+
+.messageCommon {
+    border: 3px solid #f00;
+    margin: 5px;
+}
+
